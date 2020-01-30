@@ -1,0 +1,3 @@
+- src: https://github.com/certbot/certbot.git
+  scm: git
+
