@@ -4,6 +4,9 @@
   
   roles:
     - geerlingguy.nginx
+    - geerlingguy.certbot
+
+
     
   vars:
     nginx_vhosts:
