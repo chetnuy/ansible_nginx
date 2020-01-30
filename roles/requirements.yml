@@ -1,4 +1,4 @@
 - src: https://github.com/geerlingguy/ansible-role-certbot
   scm: git
-  name: geerlingguy.nginx
+  name: geerlingguy.certbot
 
